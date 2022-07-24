@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   
  <h3>Skills and Proficiency:</h3>
  <p>HTML5, CSS3; JS; React (in progress)</p>
+ <p>Bootstrap; SCSS</p>
  <p>Git, GitHub</p>
  <p>VS Code, Figma</p>
  
