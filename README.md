@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-[![](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sultanbaev1)
+[![](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sultanbaev_ss)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:saidtasul99@gmail)](mailto:saidtasul99@gmail.com)
 [![](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=Blurple)](https://discord.com/users/Said_S#8035)
 [![](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/sultanbaev.ss)
