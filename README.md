@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 
 </div>
-<h2 align="center">I'm a beginner Flutter Developer</h2>
+<h2 align="center">I'm a Flutter Developer</h2>
 
 <h3 align="center">About Me</h3>
 <p align="center">My name is Saidrasul, I'm 22 years old and i live in Tashkent, Uzbekistan.</p>  
