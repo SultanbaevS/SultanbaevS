@@ -1,71 +1,25 @@
-<!--
-**SultanbaevS/SultanbaevS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+🔭 I’m currently working on Freelance<br>👯 I’m looking to collaborate on Flutter Projects<br>🤝 I’m looking for help with Creating Mobile Applications<br>🌱 I’m currently learning Flutter Map Integrations<br>💬 Ask me about Flutter
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-&layout=compact
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/said_s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sultanbaev.ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/said-sultanbaev-3a38381b7) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanbaevS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanbaevS&theme=radical&")](https://github.com/anuraghazra/github-readme-stats)
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sultanbaevs&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sultanbaevs&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultanbaevs&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, Welcome to My Github Page</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=sultanbaevs&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saidrasul) 
+
   
-
-</div>
-<h2 align="center">I'm a Flutter Developer</h2>
-
-<h3 align="center">About Me</h3>
-<p align="center">My name is Saidrasul, I'm 22 years old and i live in Tashkent, Uzbekistan.</p>  
-<p align="center">My goal is to gain knowledge in the field of mobile app development.</p>
-
-<h3 align="center">Connect With Me:</h3>
-
-<div align="center">
-  
-[![](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sultanbaev_ss)
-[![Mail Badge](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:saidtasul99@gmail)](mailto:saidtasul99@gmail.com)
-[![](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=Blurple)](https://discord.com/users/Said_S#8035)
-[![](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/sultanbaev.ss)
-  
-</div>
-
-<div align="center"></div>
-  
- 
-<h2 align="center">Languages and Tools:</h2>
-<br>
-<p align="center">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="rabbitmq" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> </a> 
-<a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> </a>
-<!-- <a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon-web-service" width="60" height="40"/> </a> -->
-</p>
-
-
-
- 
- </div>
- 
-<div align="center"> 
-  
-| <a href="https://github.com/SultanbaevS/"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SultanbaevS&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Saidrasul's github stats" /></a> | <a href="https://github.com/SultanbaevS/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanbaevS&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
-
- 
- </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
